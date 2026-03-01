@@ -1,5 +1,6 @@
-#include<bits/stdc++.h>
-using namespace std;
+#include <newheader.hpp>
+
 int main(){
-    
+somef();
+
 }
